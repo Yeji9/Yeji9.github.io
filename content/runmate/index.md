@@ -4,7 +4,7 @@ title: 내가 벌써 졸업 프로젝트를?
 date: '2021-11-17 00:00:00'
 author: 강잼민
 tags: 블로그 github-pages gatsby
-categories: 블로그
+categories: 블로그 개발일지
 ---
 
 내가 벌써 4학년이 되어 학과의 졸업 프로젝트를 맡다니!
